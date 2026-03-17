@@ -1,4 +1,3 @@
-# Dmath
 # My Discrete Math Repository
 
 ## Homework 2 - 201724637 Jamiyanpurev Ochir
