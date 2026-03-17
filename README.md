@@ -1,0 +1,2 @@
+# Dmath
+discrete math I 
